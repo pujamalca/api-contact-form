@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# app build result
+api-contact-form
